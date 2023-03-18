@@ -1,0 +1,10 @@
+https://developer.mozilla.org/es/docs/Learn/HTML/Multimedia_and_embedding/Adding_vector_graphics_to_the_Web
+https://pagespeed.web.dev/?utm_source=psi&utm_medium=redirect
+https://www.aluracursos.com/blog/guia-de-unidades-en-css
+https://css-tricks.com/snippets/css/media-queries-for-standard-devices/
+
+https://www.aluracursos.com/blog/como-lidiar-con-los-limites-de-resolucion-en-sitios-responsivos
+https://www.aluracursos.com/blog/centrar-un-elemento-con-css
+https://www.aluracursos.com/blog/desde-cero-hasta-programador-front-end
+https://www.aluracursos.com/blog/como-organizar-el-css-en-tu-proyecto
+
